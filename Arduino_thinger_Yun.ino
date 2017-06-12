@@ -1,7 +1,3 @@
-#define _DEBUG_
-
-//#define THINGER_SERVER "192.168.1.2"
-
 #include <YunClient.h>
 #include <ThingerYun.h>
 
